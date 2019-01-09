@@ -1,5 +1,5 @@
 class Person
-  attr_accessor :name
+  attr_accessor :name,:job
   # def name=(name)
   #   @name = name
   # end
